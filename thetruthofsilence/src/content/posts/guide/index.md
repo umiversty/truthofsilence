@@ -2,7 +2,7 @@
 title: The Truth of Silence
 published: 2025-11-16
 description: What is the Truth of Silence
-image: "./cover.jpeg"
+image: "./cover.png"
 tags: ["advocacy", "education", "Troubled Teen Industry"]
 category: Advocacy
 draft: false
